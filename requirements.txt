@@ -2,4 +2,4 @@ streamlit
 werkzeug
 pandas
 streamlit_chat
-
+authlib
